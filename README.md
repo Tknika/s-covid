@@ -35,6 +35,16 @@ It measures the following magnitudes:
 
 ![enter image description here](eskemafzz_schem.png "Muntaia")
 
+|NodeMCU| DHT22 | Sense Air S8 | 
+|---|---|---|
+| 3V3| VCC |-|
+| GND| GND|-|
+| D6| DATA |-|
+| Vin|-|VCC|
+| GND|-|GND|
+| RX|-|TX|
+| TX|-|RX|
+
   - (For a more detailed information, please refer to the following [link](https://senseair.com/products/size-counts/s8-residential/))
 
 
