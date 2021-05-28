@@ -38,9 +38,9 @@ It measures the following magnitudes:
   - (For a more detailed information, please refer to the following [link](https://senseair.com/products/size-counts/s8-residential/))
 
 
-## Flashing progress
+## Flashing process
 
-Download and install Tasmotizer software.  [link](https://github.com/tasmota/tasmotizer)
+Download and install Tasmotizer software.  [Tasmotizer software](https://github.com/tasmota/tasmotizer)
 
 
 ![enter image description here](Tasmotizer04.png "Tasmotizer")
@@ -48,7 +48,7 @@ Download and install Tasmotizer software.  [link](https://github.com/tasmota/tas
 Follow the steps. 
 
 - Flash tasmota-sensors.bin latest firmware
-- Send hardware, wifi and MQTT configuration
+- Send hardware, WiFi and MQTT configuration
 
 ![enter image description here](Tramotizer08.png "Tasmotizer")
 
