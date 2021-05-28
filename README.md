@@ -40,7 +40,7 @@ It measures the following magnitudes:
 
 ## Flashing progress
 
-Download and install Tasmotizer software.  [link](https://github.com/tasmota/tasmotizer))
+Download and install Tasmotizer software.  [link](https://github.com/tasmota/tasmotizer)
 
 
 ![enter image description here](Tasmotizer04.png "Tasmotizer")
