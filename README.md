@@ -47,16 +47,16 @@ Download and install Tasmotizer software.  [link](https://github.com/tasmota/tas
 
 Follow the steps. 
 
-	 - Flash tasmota-sensors.bin latest firmware
-	 - Send hardware, wifi and MQTT configuration
+- Flash tasmota-sensors.bin latest firmware
+- Send hardware, wifi and MQTT configuration
 
 ![enter image description here](Tramotizer08.png "Tasmotizer")
 
-	 - Get the device IP and access its web configuration tool, typing the IP address into any web browser: http://<ip_address>
+- Get the device IP and access its web configuration tool, typing the IP address into any web browser: http://<ip_address>
 
 ![enter image description here](Tasmotizer10.png "Tasmotizer")
 
-	 - Configure the sensors according to the next image:
+- Configure the sensors according to the next image:
 
 ![enter image description here](Tasmotizer12.png "Tasmotizer")
 
