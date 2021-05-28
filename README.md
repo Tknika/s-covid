@@ -36,7 +36,8 @@ It measures the following magnitudes:
 ![enter image description here](eskemafzz_schem.png "Muntaia")
 
  - Connection pinout
-
+ 
+|NodeMCU|DHT22|Sense Air S8|
 |---|---|---|
 | 3V3| VCC |-|
 | GND| GND|-|
