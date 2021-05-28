@@ -4,12 +4,13 @@
 
 ## Introduction
 
-**SCovid** is a Nodemcu based sensor for CO2 monitoring. 
+**SCovid** is a NodeMCU (ESP8266 development board) based sensor for CO2 monitoring. 
 
-It has been developed mainly for teachers (educational environments), in order to facilitate the telemetry of CO2 level at school using [IoMBian OS](https://github.com/Tknika/iombian) project.
+It has been developed mainly for teachers (educational environments), in order to facilitate the measures of CO2 level at school.
+
 ![enter image description here](Sentsoreak.png "Sensors")
 
-It measures the forwarding magnitudes. 
+It measures the following magnitudes: 
 
 	 - CO2 level    pppm 
 	 - Tenperature  ºC 
@@ -51,24 +52,24 @@ Follow the steps.
 
 ![enter image description here](Tramotizer08.png "Tasmotizer")
 
-	 - Get IP and open the Web configuration tool
+	 - Get the device IP and access its web configuration tool, typing the IP address into any web browser: http://<ip_address>
 
 ![enter image description here](Tasmotizer10.png "Tasmotizer")
 
-Place sensors and nodemcu pinout according the schem.
+Configure the sensors according to the next image:
 
 ![enter image description here](Tasmotizer12.png "Tasmotizer")
 
-## Last step
+## Result
 
- - Be sure that correct readings are displayed on the tasmota we server.
+ - Be sure that correct readings are displayed on the web interface of the Tasmota device.
 
 ![enter image description here](Tasmotizer12.png "Tasmotizer")
 
 
 ## Authors
 
-(c) 2020 [Tknika](https://tknika.eus/) ([Aitor Iturrioz](https://github.com/bodiroga) ,  [Aitor Azpiroz](https://github.com/axpirina))
+(c) 2021 [Tknika](https://tknika.eus/) ([Aitor Iturrioz](https://github.com/bodiroga) ,  [Aitor Azpiroz](https://github.com/axpirina))
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
