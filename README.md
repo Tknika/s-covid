@@ -12,7 +12,7 @@ It has been developed mainly for teachers (educational environments), in order t
 
 It measures the following magnitudes: 
 
-	 - CO2 level    pppm 
+	 - CO2 level    ppm 
 	 - Tenperature  ºC 
 	 - Humidity     %
 	 - DEW point    ºC
