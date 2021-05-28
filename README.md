@@ -64,7 +64,7 @@ Follow the steps.
 
  - Be sure that correct readings are displayed on the web interface of the Tasmota device.
 
-![enter image description here](Tasmotizer12.png "Tasmotizer")
+![enter image description here](Tasmota100.png "Tasmotizer")
 
 
 ## Authors
