@@ -52,7 +52,7 @@ It measures the following magnitudes:
 
 ## Flashing process
 
-Download and install Tasmotizer software.  [Tasmotizer software](https://github.com/tasmota/tasmotizer)
+Download and install [Tasmotizer software](https://github.com/tasmota/tasmotizer).
 
 
 ![enter image description here](Tasmotizer04.png "Tasmotizer")
