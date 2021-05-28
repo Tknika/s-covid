@@ -56,7 +56,7 @@ Follow the steps.
 
 ![enter image description here](Tasmotizer10.png "Tasmotizer")
 
-Configure the sensors according to the next image:
+	 - Configure the sensors according to the next image:
 
 ![enter image description here](Tasmotizer12.png "Tasmotizer")
 
