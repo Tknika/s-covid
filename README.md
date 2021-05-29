@@ -72,6 +72,11 @@ Follow the steps.
 
 ![enter image description here](Tasmotizer12.png "Tasmotizer")
 
+- The following template makes the configuration easier:
+
+		-   {"NAME":"S-Covid","GPIO":[1,1600,1,1632,1,1,1,1,1216,1,1,1,1,1],"FLAG":0,"BASE":18}
+
+
 ## Result
 
  - Be sure that correct readings are displayed on the web interface of the Tasmota device.
